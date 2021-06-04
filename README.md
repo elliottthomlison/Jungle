@@ -1,6 +1,6 @@
 # Jungle
 
-Jungle is a mini e-commerce application built with Rails 4.2. It is the fifth project built during the Lighthouse Labs Web Development Bootcamp. Jungle enables a user to browse the options that are available in the store whereby they can add and remove items into a cart. They are also able to create an account, login, and interact with their account there.  
+Jungle is a mini e-commerce application built with Rails and Ruby on Rails. It is the fifth project built during the Lighthouse Labs Web Development Bootcamp. Jungle enables a user to browse the options that are available in the store whereby they can add and remove items into a cart. They are also able to create an account, login, and interact with their account there.  
 
 !["Screenshot of scheduler"](https://github.com/elliottthomlison/Jungle/blob/master/Jungle.png?raw=true)
 !["Screenshot of scheduler"](https://github.com/elliottthomlison/Jungle/blob/master/Jungle2.png?raw=true)
