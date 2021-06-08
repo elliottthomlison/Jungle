@@ -4,6 +4,8 @@ Jungle is a mini e-commerce application built with Rails and Ruby on Rails. It i
 
 ## Final Product
 
+![Main](<img src="./docs/main.gif" width=1600px height=500px/>)
+
 !["Screenshot of scheduler"](https://github.com/elliottthomlison/Jungle/blob/master/Jungle.png?raw=true)
 !["Screenshot of scheduler"](https://github.com/elliottthomlison/Jungle/blob/master/Jungle2.png?raw=true)
 !["Screenshot of scheduler"](https://github.com/elliottthomlison/Jungle/blob/master/Jungle3.png?raw=true)
